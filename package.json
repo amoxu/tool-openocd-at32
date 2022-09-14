@@ -1,0 +1,24 @@
+{
+  "name": "tool-openocd-at32",
+  "version": "0.1100.220911",
+  "description": "Open On-Chip Debugger. Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing",
+  "keywords": [
+    "at32",
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "tools",
+    "debugger",
+    "debug server",
+    "uploader"
+  ],
+  "homepage": "http://openocd.org",
+  "license": "GPL-2.0-or-later",
+  "system": "all",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArteryTek/openocd.git"
+  }
+}
