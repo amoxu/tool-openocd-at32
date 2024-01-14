@@ -1,6 +1,6 @@
 {
   "name": "tool-openocd-at32",
-  "version": "0.1100.220911",
+  "version": "0.1100.240114",
   "description": "Open On-Chip Debugger. Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing",
   "keywords": [
     "at32",
